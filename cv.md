@@ -1,7 +1,7 @@
 # Oleg Zadilny
 
 ## Contact info
-**Discord:** Oleg Zadilny#3462 **Email:**o.zadilny@gmail.com
+**Discord:** Oleg Zadilny#3462 **Email:** o.zadilny@gmail.com
 
 ## About me
 As an information security specialist, you always need to find solutions to automate some processes or test products. Today it's time to learn programming languages and modern technologies in order to improve your professional level and take another step in your career.
@@ -34,4 +34,4 @@ function createButton() {
     + 2021 Intro to IT Course, LeverX Group, online 
 
 ## English
-**Level:**A2
+**Level:** A2
