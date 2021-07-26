@@ -1,1 +1,1 @@
-https://OlegZadilny.github.io//rsschool-cv/cv
+https://OlegZadilny.github.io//rsschool-cv/
